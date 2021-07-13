@@ -3,8 +3,8 @@
 body { margin: 0; }
 
 /* GLOBAL COLORS */
-body { color: rgba(0, 0, 0, 0.8); }
-a { color: rgba(102, 0, 0, .8); }
+body { color: rgba(30, 199, 185, 0.8); }
+a { color: rgba(153, 24, 131, 0.8); }
 a:hover { color: rgba(102, 0, 0, 1); }
 
 /* GLOBAL TYPOGRAPHY */ 
@@ -88,7 +88,7 @@ main {
 
 /* HERO SECTION */
 .hero {
-    background-color: rgba(102, 0, 0, 1);
+    background-color: rgb(4, 117, 245, 0.8);
     text-align: center;
     color: white;
     padding: 6em 1em;
@@ -189,8 +189,8 @@ aside {
 
 /* SUB PAGES */
 .page-sub .hero {
-    background-color:rgba(0, 0, 0, 0.1);
-    color: rgba(0, 0, 0, 0.8);
+    background-color:rgba(0, 136, 247, 1);
+    color: rgba(0, 48, 204, 0.8);
 }
 
 /* COURSE PAGES WITH MULTIPLE PROJECT LISTS */
